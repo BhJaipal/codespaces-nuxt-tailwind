@@ -1,7 +1,7 @@
 {
     "recommendations": [
         "vue.volar",
-        "Vue.vscode-typescript-vue-plugin",
+        "vue.vscode-typescript-vue-plugin",
         "znck.vue",
         "johnsoncodehk.vscode-typescript-web",
         "ionutvmi.path-autocomplete",
@@ -10,6 +10,8 @@
         "idered.npm",
         "ms-vscode.vscode-typescript-next",
         "yoavbls.pretty-ts-errors",
-        "zachhardesty.jsdoc-comment-toggler"
+        "zachhardesty.jsdoc-comment-toggler",
+        "vscode-icons-team.vscode-icons",
+        "tal7aouy.icons"
     ]
 }
